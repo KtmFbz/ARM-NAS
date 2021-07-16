@@ -11,7 +11,7 @@ The main points:
 
 Design 1:
 - FriendlyElec Nanopi R4S 4GB
-- USB3 hub with Gigabit Ethernet
+- powered USB3 hub with Gigabit Ethernet
 - Seagate Basic 5TB USB3 hard disk
 - MeanWell 150W 5V power supply
 - 
